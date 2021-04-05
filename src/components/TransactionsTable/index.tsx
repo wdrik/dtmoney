@@ -6,7 +6,7 @@ export function TransactionsTable() {
     fetch('http://localhost:3333/api/transactions')
       .then(response => response.json())
       .then(data => console.log(data))
-  }, [])
+  }, []);
 
   return (
     <Container>
