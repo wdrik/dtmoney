@@ -79,7 +79,6 @@ export const RadioBox = styled.button<RadioBoxProps>`
   display: flex;
   align-items: center;
   justify-content: center;
-
   transition: border-color 0.2s;
 
   &:hover {
