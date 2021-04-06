@@ -14,7 +14,7 @@ export function Sumary() {
         </header>
 
         <strong>
-          R$1000,00
+          R$ 1000,00
         </strong>
       </div>
 
@@ -25,7 +25,7 @@ export function Sumary() {
         </header>
 
         <strong>
-          - R$500,00
+          - R$ 500,00
         </strong>
       </div>
 
@@ -36,7 +36,7 @@ export function Sumary() {
         </header>
 
         <strong>
-          R$500,00
+          R$ 500,00
         </strong>
       </div>
     </Container>
